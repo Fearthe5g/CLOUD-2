@@ -1,0 +1,5 @@
+instancia creada con IP 35.153.206.228 
+instancia creada con IP {$self.public_ip} Destruida 
+Instancia creada con IP 35.172.116.167 
+instancia  35.172.116.167 Destruida 
+Instancia creada con IP 107.20.91.235 
